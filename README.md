@@ -1,7 +1,7 @@
 # Generative-Adversarial-Federated-Model
 This repository contains the implementation of the Generative Adversarial Federated Model (GAFM). The GAFM framework is shown in the following figure.
 
-![截屏2023-05-15 12 22 57](https://github.com/hyj12345/Generative-Adversarial-Federated-Model/assets/49636371/f616c65a-2e44-4029-a425-9236152ed725)
+![pipeline](https://github.com/hyj12345/Generative-Adversarial-Federated-Model/blob/main/pipeline.png)
 
 
 ## Requirements ##
