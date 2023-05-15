@@ -7,12 +7,13 @@ This repository contains the implementation of the Generative Adversarial Federa
 ## Requirements ##
 The following packages are required to run the code:
 
-- PyTorch (>=1.8.1)
-- torchvision (>=0.9.1)
-- numpy (>=1.19.5)
-- pandas (>=1.2.4)
-- sklearn (>=0.24.2)
-- matplotlib (>=3.3.4)
+- PyTorch 
+- torchvision 
+- keras
+- numpy 
+- pandas 
+- sklearn 
+- matplotlib
 
 ## Data ##
 
