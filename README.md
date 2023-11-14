@@ -22,7 +22,7 @@ We evaluate GAFM on four publicly available datasets, which can be obtained thro
 - Spabmase: Download from [Spambase](https://archive.ics.uci.edu/ml/datasets/spambase).
 - IMDB: Import the data using the following code (details can be found in `GAFM_IMDB/train.py`): `from keras.datasets import imdb` and the `imdb.load_data()` function.  
 - Criteo: Download from [Criteo](https://www.kaggle.com/c/criteo-display-ad-challenge).
-- ISIC: Download from [ISIC](https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic).
+- ISIC: Download from [ISIC](https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign).
 
 ## Usage ##
 
